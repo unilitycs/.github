@@ -1,0 +1,2 @@
+# .github
+Ours organization readme
