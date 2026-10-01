@@ -1,15 +1,25 @@
 # unilitycs
-## Hi mates 👋
-We are a triple of SWEs actually in Master of Science degree in Software and Automation Engineering.
-In our repos you will find some fine solution for business intelligence, data science and... why not? A lots of Machine and Deep Learning. 
 
-<!--
+## Hi there 👋
 
-**Here are some ideas to get you started:**
+We are a team of three software engineers pursuing a **Master’s degree in Software and Automation Engineering**.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+At unilitycs, we build practical software and explore how data can help solve real-world problems. Our repositories cover topics such as:
+
+- Business intelligence
+- Data science
+- Machine learning
+- Deep learning
+- Software and automation engineering
+
+We enjoy turning ideas into useful, well-engineered solutions—and sharing what we learn along the way.
+
+## Explore our work
+
+Browse our repositories to discover projects, experiments, and tools built around data, intelligent systems, and automation.
+
+## Connect and contribute
+
+Interested in one of our projects? Feel free to open an issue, start a discussion, or submit a pull request. We welcome questions, suggestions, and collaboration.
+
+Thanks for stopping by! 🚀
